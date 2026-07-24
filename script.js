@@ -4,6 +4,6 @@
         button.addEventListener("click", function () {
             box.textContent = "take that previous quote seriously";
             box.style.backgroundColor = "#1732D8";
-            box.style.color = "#ffffff";
+            box.style.color = "#f5f5f5";
             box.style.fontSize = "24px";
         });
